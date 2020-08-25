@@ -1,5 +1,5 @@
 # Heading
 
-(some link)[http://google.com]
+[some link](https://google.com)
 
 hi
